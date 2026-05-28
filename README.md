@@ -1,0 +1,2 @@
+# cuanku
+aplikasi penghasil uang
